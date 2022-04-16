@@ -182,8 +182,6 @@ And he'd be right. The Apple II was launched just two years later. In fact, if B
 
 So while I stand by our responsible advice to finish college and then go work for a while before starting a startup, I have to admit it's one of those things the old tell the young, but don't expect them to listen to. We say this sort of thing mainly so we can claim we warned you. So don't say I didn't warn you.
 
-
-
 **Notes**
 
 \[1\] The average B-17 pilot in World War II was in his early twenties. (Thanks to Tad Marko for pointing this out.)

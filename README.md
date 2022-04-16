@@ -21,3 +21,5 @@
 * [Maker's Schedule, Manager's Schedule](makers-schedule.md)
 
 * [How To Make Wealth](wealth.md)
+
+* [Why Smart People Have Bad Ideas](bronze.md)

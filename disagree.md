@@ -10,7 +10,7 @@ The result is there's a lot more disagreeing going on, especially measured by th
 
 If we're all going to be disagreeing more, we should be careful to do it well. What does it mean to disagree well? Most readers can tell the difference between mere name-calling and a carefully reasoned refutation, but I think it would help to put names on the intermediate stages. So here's an attempt at a disagreement hierarchy:
 
-![Hierarchy_of_Disagreement](https://commons.wikimedia.org/wiki/File:Graham%27s_Hierarchy_of_Disagreement-en.svg)
+[![Hierarchy_of_Disagreement](https://commons.wikimedia.org/wiki/File:Graham%27s_Hierarchy_of_Disagreement-en.svg)](https://wikimedia.org/)
 
 **DH0. Name-calling.**
 

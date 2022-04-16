@@ -2,31 +2,38 @@
 
 ## Getting Started
 
-* [How to start a startup](start.md)
+* [How to start a startup](start.md) 2005
 
-* [Do Things That Don't Scale](ds.md)
+* [Do Things That Don't Scale](ds.md) 2013
 
-* [Taste for Makers](taste.md)
+* [Taste for Makers](taste.md) 2002
 
-## Growth
+* [Startup = Growth](growth.md) 2012
 
-* [Startup = Growth](growth.md)
+## Preventing Startup Death
 
-* [The Hardest Lessons for Startups to Learn](startuplessons.md)
+* [The Fatal Pinch](pinch.md) 2014
 
-* [Default alive](aord.md)
+* [Default Alive](aord.md) 2015
 
-* [The Fatal Pinch](pinch.md)
+* [The Hardest Lessons for Startups to Learn](startuplessons.md) 2006
 
+* [The 18 Mistakes That Kill Startups](startupmistakes.md) 2006
+
+## Fundraising & Finances
+
+* [A Fundraising Survival Guide](fundraising.md) 2008
+
+* [Ramen Profitable](ramenprofitable.md) 2009
+
+* [How To Make Wealth](wealth.md) 2004
 
 ## Managing
 
-* [Maker's Schedule, Manager's Schedule](makers-schedule.md)
+* [Maker's Schedule, Manager's Schedule](makers-schedule.md) 2009
 
 ## People
 
-* [Hiring is Obsolete](hiring.md)
+* [Hiring is Obsolete](hiring.md) 2005
 
-* [How To Make Wealth](wealth.md)
-
-* [Why Smart People Have Bad Ideas](bronze.md)
+* [Why Smart People Have Bad Ideas](bronze.md) 2005

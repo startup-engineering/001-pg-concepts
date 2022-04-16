@@ -1,15 +1,23 @@
 # Paul Graham Essays
 
-## Key Concepts
+## Getting Started
 
-* [Default alive](aord.md)
+* [How to start a startup](start.md)
 
-* [Maker's schedule, manager's schedule](makers-schedule.md)
-
-* [Startup = Growth](growth.md)
+* [Do Things That Don't Scale](ds.md)
 
 * [Taste for Makers](taste.md)
 
+## Growth
+
+* [Startup = Growth](growth.md)
+
+* [Default alive](aord.md)
+
 * [The Fatal Pinch](pinch.md)
+
+## People
+
+* [Maker's Schedule, Manager's Schedule](makers-schedule.md)
 
 * [How To Make Wealth](wealth.md)

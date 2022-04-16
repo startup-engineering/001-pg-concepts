@@ -12,15 +12,20 @@
 
 * [Startup = Growth](growth.md)
 
+* [The Hardest Lessons for Startups to Learn](startuplessons.md)
+
 * [Default alive](aord.md)
 
 * [The Fatal Pinch](pinch.md)
 
+
+## Managing
+
+* [Maker's Schedule, Manager's Schedule](makers-schedule.md)
+
 ## People
 
 * [Hiring is Obsolete](hiring.md)
-
-* [Maker's Schedule, Manager's Schedule](makers-schedule.md)
 
 * [How To Make Wealth](wealth.md)
 

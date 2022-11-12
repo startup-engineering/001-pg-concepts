@@ -38,4 +38,4 @@
 
 * [How to Disagree](disagree.md) 2008
 
-* [Why Smart People Have Bad Ideas](bronze.md) 2005
+* [Why Smart People Have Bad Ideas](bronze.md) 2005 Smart people have bad ideas because they're not used to thinking about what other people want.
